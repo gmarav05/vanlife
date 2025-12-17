@@ -1,1 +1,1 @@
-loaders, router, remix
+loaders instead of useEffect, router, remix, mirage js, 
