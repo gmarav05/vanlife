@@ -738,3 +738,7 @@ img.graph {
     color: #ff8c38;
     margin-right: 5px;
 }
+
+.host-van-single > a {
+    margin-left: 200px;
+}
