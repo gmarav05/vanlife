@@ -21,19 +21,10 @@ This project was created to practice Firebase Firestore integration, state manag
 
 ## Image
 
-<div align="center">
-  <img src="./image.png" alt="Home Page" width="600" height="400">
-  <p><i>Home Page</i></p>
-</div>
-
-<div align="center">
-  <img src="./image2.png" alt="Van Listings" width="600"  height="400">
-  <p><i>Van Listings with Filters</i></p>
-</div>
-
-<div align="center">
-  <img src="./image3.png" alt="Host Dashboard" width="600"  height="400">
-  <p><i>Host Dashboard</i></p>
+<div align="center" style="display: flex; gap: 16px; justify-content: center; flex-wrap: nowrap;">
+  <img src="./image.png" alt="Home Page" height="260" />
+  <img src="./image2.png" alt="Van Listings" height="260" />
+  <img src="./image3.png" alt="Host Dashboard" height="260" />
 </div>
 
 ## 🚀 Features
