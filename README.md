@@ -1,4 +1,4 @@
-## 🚌 Vanlife
+## Vanlife
 A modern van rental web application built with **React**, featuring advanced routing, **authentication**, and **cloud database** integration.
 
 This project focuses on real-world routing, **Firebase integration**, modern React patterns and data loading patterns using **React Router loaders** instead of traditional `useEffect`.
@@ -19,13 +19,9 @@ This project was created to practice Firebase Firestore integration, state manag
 ## Video 
 
 
-https://github.com/user-attachments/assets/ea98f2ba-993e-4e22-b881-1d2dc934e6ad
-
-
-
 ## Image
 
-<div align="center" style="display: flex; gap: 16px; justify-content: space-evenly; flex-wrap: nowrap;">
+<div align="center" style="display: flex; gap: 20px; justify-content: space-evenly; flex-wrap: nowrap;">
   <img src="./image.png" alt="Home Page" height="460" />
   <img src="./image2.png" alt="Van Listings" height="460" />
   <img src="./image3.png" alt="Host Dashboard" height="460" />
