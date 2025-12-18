@@ -16,14 +16,7 @@ This project was created to practice Firebase Firestore integration, state manag
 
 **Note:** This is a demonstration project with simplified authentication. Do not use this authentication pattern in production.
 
-### Video Demo
-
-<div align="center">
-  <video width="600" controls>
-    <source src="./demo.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
+## Video 
 
 
 ## Image
