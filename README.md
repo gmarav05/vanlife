@@ -19,6 +19,10 @@ This project was created to practice Firebase Firestore integration, state manag
 ## Video 
 
 
+https://github.com/user-attachments/assets/a786e298-2aef-447d-85a1-0d3c75c2f70d
+
+
+
 ## Image
 
 <div align="center" style="display: flex; gap: 20px; justify-content: space-evenly; flex-wrap: nowrap;">
