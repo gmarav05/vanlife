@@ -1,6 +1,12 @@
 import React from "react"
 import { BsStarFill } from "react-icons/bs"
-import ReviewsGraph from "../../assets/images/reviews-graph.png"
+//import ReviewsGraph from "../../assets/images/reviews-graph.png"
+
+
+const ReviewsGraphUrl = new URL(
+  "../../assets/images/reviews-graph.png",
+  import.meta.url
+).href
 
 export default function Reviews() {
     const reviewsData = [
@@ -30,7 +36,7 @@ export default function Reviews() {
             </div>
             <img
                 className="graph"
-                src={`${import.meta.env.BASE_URL}${ReviewsGraph}`}
+                src={ReviewsGraphUrl}
                 alt="Review graph"
             />
             <h3>Reviews (2)</h3>

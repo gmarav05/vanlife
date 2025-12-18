@@ -1,5 +1,11 @@
 import React from "react"
-import IncomeGraph from "../../assets/images/income-graph.png"
+// import IncomeGraph from "../../assets/images/income-graph.png"
+
+const incomeGraphUrl = new URL(
+  "../../assets/images/income-graph.png",
+  import.meta.url
+).href
+
 
 export default function Income() {
     const transactionsData = [
@@ -16,7 +22,7 @@ export default function Income() {
             <h2>$2,260</h2>
             <img
                 className="graph"
-                src={`${import.meta.env.BASE_URL}${IncomeGraph}`}
+                src={incomeGraphUrl}
                 alt="Income graph"
             />
             <div className="info-header">
